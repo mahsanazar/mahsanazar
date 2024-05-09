@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm [Mahsa]! 👋
 
-<!--
-**mahsanazar/mahsanazar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m currently working as an AI and Data Science Trainee, focusing on applications in the healthcare and pharmaceutical fields.
+- 🎓 I graduated with degrees in Computer Engineering, Analytical Philosophy, and Philosophy of Science from KU Leuven.
+- 🌱 I’m deeply passionate about Machine Learning and Data Science, exploring innovative ways to apply these technologies in the different sectors.
+- 👯 I’m looking to collaborate on projects related to data science and machine learning, particularly those that aim to enhance healthcare outcomes.
+- 🤔 I’m seeking advice and insights on the latest trends and techniques in machine learning and AI applications in the pharmaceutical industry.
+- 💬 Ask me about anything from data analytics and digital marketing strategies to machine learning models and their applications in different sectors.
+- 📫 How to reach me:  [https://www.linkedin.com/in/mahsa-nazarian/] 
+- ⚡ Fun fact: [Reading books, sport ]
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Languages: Python, SQL, R
+- Frameworks/Tools: TensorFlow, scikit-learn, Google Analytics
+- Specialties: Data Analysis, Digital Marketing, Machine Learning, AI in Healthcare
