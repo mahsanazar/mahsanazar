@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on projects related to data science and machine learning, particularly those that aim to enhance healthcare outcomes.
 - 🤔 I’m seeking advice and insights on the latest trends and techniques in machine learning and AI applications in the pharmaceutical industry.
 - 📫 How to reach me:  [https://www.linkedin.com/in/mahsa-nazarian/] 
-- ⚡ Fun fact: [Reading books, sport ]
+- ⚡ Fun fact: [Reading  Philosophical Books , sport ]
 
 ## 🛠 Skills
 - Languages: Python, SQL, R
